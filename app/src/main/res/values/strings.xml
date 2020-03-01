@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW</string>
+
+    <string-array name="spinnerLeft">
+        <item>Israel ₪ ILS</item>
+        <item>USA    $ USD</item>
+        <item>Europe € EUR</item>
+        <item>China  ¥ CNY</item>
+        <item>Russia ₽ RUB</item>
+        <item>Englend £ GBP</item>
+    </string-array>
+</resources>
